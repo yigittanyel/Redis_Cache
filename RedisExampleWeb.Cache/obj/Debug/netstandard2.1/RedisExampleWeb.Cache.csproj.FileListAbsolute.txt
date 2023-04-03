@@ -1,0 +1,10 @@
+C:\Users\yigittanyel\Desktop\TrialProject\RedisExample\RedisExampleWeb.Cache\bin\Debug\netstandard2.1\RedisExampleWeb.Cache.deps.json
+C:\Users\yigittanyel\Desktop\TrialProject\RedisExample\RedisExampleWeb.Cache\bin\Debug\netstandard2.1\RedisExampleWeb.Cache.dll
+C:\Users\yigittanyel\Desktop\TrialProject\RedisExample\RedisExampleWeb.Cache\bin\Debug\netstandard2.1\RedisExampleWeb.Cache.pdb
+C:\Users\yigittanyel\Desktop\TrialProject\RedisExample\RedisExampleWeb.Cache\obj\Debug\netstandard2.1\RedisExampleWeb.Cache.csproj.AssemblyReference.cache
+C:\Users\yigittanyel\Desktop\TrialProject\RedisExample\RedisExampleWeb.Cache\obj\Debug\netstandard2.1\RedisExampleWeb.Cache.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yigittanyel\Desktop\TrialProject\RedisExample\RedisExampleWeb.Cache\obj\Debug\netstandard2.1\RedisExampleWeb.Cache.AssemblyInfoInputs.cache
+C:\Users\yigittanyel\Desktop\TrialProject\RedisExample\RedisExampleWeb.Cache\obj\Debug\netstandard2.1\RedisExampleWeb.Cache.AssemblyInfo.cs
+C:\Users\yigittanyel\Desktop\TrialProject\RedisExample\RedisExampleWeb.Cache\obj\Debug\netstandard2.1\RedisExampleWeb.Cache.csproj.CoreCompileInputs.cache
+C:\Users\yigittanyel\Desktop\TrialProject\RedisExample\RedisExampleWeb.Cache\obj\Debug\netstandard2.1\RedisExampleWeb.Cache.dll
+C:\Users\yigittanyel\Desktop\TrialProject\RedisExample\RedisExampleWeb.Cache\obj\Debug\netstandard2.1\RedisExampleWeb.Cache.pdb
